@@ -2,3 +2,4 @@
 
 Equipo:
     -Darwin Sosa
+    - Lucas Valenzuela	
