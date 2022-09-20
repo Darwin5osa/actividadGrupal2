@@ -3,3 +3,4 @@
 Equipo:
     -Darwin Sosa
     -Mathias Silveira
+    -Lucas Valenzuela	
